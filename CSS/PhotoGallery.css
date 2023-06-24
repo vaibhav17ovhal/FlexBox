@@ -1,0 +1,60 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: antiquewhite;
+}
+.one img{
+    margin: 10px;
+    height: 450px;
+    width: 340px;
+    border: 6px solid black;
+    border-radius: 8%;
+    box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
+}
+.two img{
+    margin-top: 0px;
+    height: 400px;
+    width: 470px;
+    margin-left: 90px;
+    border: 6px solid black;
+    border-radius: 8%;
+    box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
+}
+.three img{
+    margin-top: 0px;
+    height: 300px;
+    width: 450px;
+    margin-left: 90px;
+    border: 6px solid black;
+    border-radius: 8%;
+    box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
+}
+.four img{
+    margin: 10px;
+    height: 300px;
+    width: 400px;
+    border: 6px solid black;
+    border-radius: 8%;
+    box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
+}
+.five img{
+    margin-top: 0px;
+    height: 400px;
+    width: 470px;
+    margin-left: 90px;
+    border: 6px solid black;
+    border-radius: 8%;
+    box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
+}
+.six img{
+    margin-top: 0px;
+    height: 290px;
+    width: 390px;
+    margin-left: 90px;
+    border: 6px solid black;
+    border-radius: 8%;
+    box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.4);
+}
+
+
